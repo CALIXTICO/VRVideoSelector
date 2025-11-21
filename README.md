@@ -1,1 +1,8 @@
 # **Selector de videos de VR para Pacientes Paliativos controlado por la vista**
+Tomás Bedoya C. - 202020689
+
+## **Descripción General**
+Este proyecto presenta una demo cuyo propósito es permitir que pacientes paliativos con restricciones de movilidad puedan facilmente elegir videos 360° de una galería previamente curada. La elección se hace con la mirada, aprovechando el rastreo de mirada de las Meta Quest Pro, pero si no se cuenta con un dispositivo que tenga eye tracking puede hacerse con la dirección del visor mismo. La interacción está pensada para que, de un catalogo facilmente expandible, el paciente pueda mirar un video que llame su atención, sepa qué video está seleccionando con la mirada por medio de un aumento en el relieve, y pueda escogerlo si enfoca su mirada en ese mismo video por 5 segundos. La aplicación, entonces, despliega el video escogido en la aplicación de Youtube del visor, listo para experimentarse en 360° de modo immersivo.
+
+## **Requerimientos Técnicos**
+La demo está pensada para desplegarse en las Meta Quest Pro para aprovechar su eye tracking. En Unity, utilizan principalmente los paquetes de Unity XR Core Utilities y XR Interaction Toolkit, así como paquetes desarrollados por Meta; principalmente el Meta All-In-One SDK y el Meta XR Interaction SDK. En principio, el APK no requiere de tecnologías adicionales para ejecutarse más allá de una conexión a internet, pero debido a imprevistos problemas complicados para exportar el APK, aún no puedo corroborarlo. Complementaré el README una vez resuelva el problema de exportación. Por ahora, la demo corre en su versión de Android por medio de Meta Quest Link y exhibe sus interacciones principales.
