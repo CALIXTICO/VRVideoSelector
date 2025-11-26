@@ -186,3 +186,5 @@ Los videos viven en un `ScriptableObject`:
   - Esto facilita cambiar la fuente de gaze en el futuro (por ejemplo, usar otra implementación OpenXR) sin tocar la lógica de UI.
 
 - Un APK listo para correr en las Quest Pro puede encontrarse en Builds/Android.
+
+** Este commit comprente la primera versión exportable del proyecto visto en la reposición del martes 25 de noviembre **
