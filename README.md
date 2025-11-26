@@ -187,4 +187,4 @@ Los videos viven en un `ScriptableObject`:
 
 - Un APK listo para correr en las Quest Pro puede encontrarse en Builds/Android.
 
-** Este commit comprente la primera versión exportable del proyecto visto en la reposición del martes 25 de noviembre **
+**Este commit comprente la primera versión exportable del proyecto visto en la reposición del martes 25 de noviembre.**
